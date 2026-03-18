@@ -42,11 +42,11 @@ SQLite in Rust(in ~30 hours) [https://github.com/lidangzzz/sqlite-rust-by-OnlySp
 Copy the following prompt into your text editor. Carefully fill in the blanks for both goal and criteria, then run it using your multi-agent–supported tool (for example, Claude Code, Codex, OpenClaw, etc.).
 
 ## Example:
-```
+
 Goal: [[[[[Write a TypeScript compiler in C++ that correctly transpiles TypeScript into JavaScript, including complete documentation and unit tests.]]]]]
 
 Criteria for success: [[[[[Ensure that the TypeScript compiler successfully compiles and generates 2,000 comprehensive TypeScript test case files covering as many TypeScript syntax features as possible. Confirm that the C++ TypeScript compiler correctly transpiles the code into JavaScript. Then, run both the outputs from this compiler and the official tsc transpiler on Node.js, and verify that the two resulting JavaScript files produce identical outputs.]]]]]
-```
+
 
 ## Notes:
 
