@@ -39,6 +39,8 @@ TypeScript compiler in C++(in ~100 hours) [https://github.com/lidangzzz/TypeScri
 
 SQLite in Rust(in ~30 hours) [https://github.com/lidangzzz/sqlite-rust-by-OnlySpecs](https://github.com/lidangzzz/sqlite-rust-by-OnlySpecs)
 
+Lean4 compiler in TypeScript (in progress) [https://github.com/lidangzzz/Lean4-ts](https://github.com/lidangzzz/Lean4-ts)
+
 
 ## Usage:
 Copy the following prompt into your text editor. Carefully fill in the blanks for both goal and criteria, then run it using your multi-agent–supported tool (for example, Claude Code, Codex, OpenClaw, etc.).
