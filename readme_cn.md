@@ -43,9 +43,9 @@ Rust 实现的 SQLite（约 30 小时）[https://github.com/lidangzzz/sqlite-rus
 
 ## 示例：
 
-目标：[[[[[用 C++ 编写一个 TypeScript 编译器，能够正确地将 TypeScript 转译为 JavaScript，包括完整的文档和单元测试。]]]]]
+Goal: [[[[[用 C++ 编写一个 TypeScript 编译器，能够正确地将 TypeScript 转译为 JavaScript，包括完整的文档和单元测试。]]]]]
 
-成功标准：[[[[[确保 TypeScript 编译器成功编译并生成 2,000 个涵盖尽可能多 TypeScript 语法特性的综合测试用例文件。确认 C++ TypeScript 编译器能正确将代码转译为 JavaScript。然后，在 Node.js 上运行此编译器的输出和官方 tsc 转译器的输出，并验证两个生成的 JavaScript 文件产生相同的输出。]]]]]
+Criteria for success: [[[[[确保 TypeScript 编译器成功编译并生成 2,000 个涵盖尽可能多 TypeScript 语法特性的综合测试用例文件。确认 C++ TypeScript 编译器能正确将代码转译为 JavaScript。然后，在 Node.js 上运行此编译器的输出和官方 tsc 转译器的输出，并验证两个生成的 JavaScript 文件产生相同的输出。]]]]]
 
 
 ## 注意事项：
