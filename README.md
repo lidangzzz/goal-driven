@@ -1,4 +1,6 @@
-# Goal-Driven 
+[中文版](readme_cn.md)
+
+# Goal-Driven
 
 
 The purpose of the Goal-Driven approach is to enable your multi-agent system (e.g., Claude Code, Codex, OpenClaw) to sustain more than 300 hours of continuous effort in solving an extremely complex problem that has a specific objective and a set of strict, well-defined criteria.
